@@ -14,7 +14,10 @@
 
 ## Overview
 
-This project implements a smart IoT-based fault detection system for three-phase
+This project implements a smart IoT-based fault
+
+![banner](assets/banner-iot-fault-detection.png)
+ detection system for three-phase
 transmission lines. The system automatically detects, classifies, and locates faults
 in real time and transmits fault information to a control room via Wi-Fi, drastically
 reducing response time for technical crews.
